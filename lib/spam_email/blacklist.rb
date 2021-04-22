@@ -10521,7 +10521,7 @@ module SpamEmail
       'q8cbwendy.com',
       'q9byhh.us',
       'q9yepn.us',
-      'qa.team',
+      # 'qa.team',
       'qaaw.ga',
       'qacmemphis.com',
       'qacquirep.com',
